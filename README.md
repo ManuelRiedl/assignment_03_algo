@@ -1,9 +1,13 @@
-# assignment_03_algo
+# Assignment_03_Algo
 
-1. Zum Ausführen werden folgende libaries benötig:
-   1. networkx - random - matplotlib.pyplo
-2. 1. Beim Ausführen der main werden 4 vordeffinierte Beispiele ausgegeben. (Bei jedem mal Ausführen werden eine zufällige Anzahl an Edges entfernt - Desshalb ist das Ergebniss immer anders)
-   2. Ausführen der main dauert ca 5 Sekunden
-   3. Es wird nur für die ersten 2 Beispiele ein plot erzeugt, da mit mehr nodes dieser nicht lesbar ist
-   4. Kommentare können mit den Flag comments aktiviert / deaktiviert werden
-4. Falls man selbst ein Beispiel aufrufen will, einfach max_nodes / num_degree ändern. 
+1. Zur Ausführung werden folgende Bibliotheken benötigt:
+   1. networkx
+   2. random
+   3. matplotlib.pyplot
+
+2. Beim Ausführen des Hauptprogramms werden 4 vordefinierte Beispiele ausgegeben. (Bei jedem Durchlauf werden eine zufällige Anzahl an Kanten entfernt, daher variiert das Ergebnis jedes Mal.)
+   - Die Ausführung des Hauptprogramms dauert etwa 5 Sekunden.
+   - Es wird nur für die ersten 2 Beispiele ein Plot erstellt, da dieser bei mehr Knoten schwer lesbar wird.
+   - Kommentare können mit der Flag "comments" aktiviert/deaktiviert werden.
+
+4. Falls Sie Ihr eigenes Beispiel ausprobieren möchten, können Sie einfach die Parameter max_nodes und num_degree ändern.
