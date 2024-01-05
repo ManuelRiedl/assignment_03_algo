@@ -5,8 +5,8 @@
    2. random
    3. matplotlib.pyplot
 
-2. Beim Ausführen des Hauptprogramms werden 4 vordefinierte Beispiele ausgegeben. (Bei jedem Durchlauf werden eine zufällige Anzahl an Kanten entfernt, daher variiert das Ergebnis jedes Mal.)
-   - Die Ausführung des Hauptprogramms dauert etwa 5 Sekunden.
+2. Beim Ausführen der main werden 4 vordefinierte Beispiele ausgegeben. (Bei jedem Durchlauf werden eine zufällige Anzahl an Edges entfernt, daher variiert das Ergebnis jedes Mal.)
+   - Die Ausführung der main dauert etwa 5 Sekunden.
    - Es wird nur für die ersten 2 Beispiele ein Plot erstellt, da dieser bei mehr Knoten schwer lesbar wird.
    - Kommentare können mit der Flag "comments" aktiviert/deaktiviert werden.
 
